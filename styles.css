@@ -1,0 +1,22 @@
+* {
+  font-family: sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body{
+  padding: 25px;
+  background-color: #0c916f;
+}
+
+.title {
+	color: #5C6AC4;
+}
+
+.description {
+  font-size: 18px;
+  background: white;
+  padding: 6%
+}
